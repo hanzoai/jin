@@ -1,0 +1,38 @@
+\begin{thebibliography}{1}
+
+\bibitem{assran2023self}
+Mahmoud Assran, Quentin Duval, Ishan Misra, Piotr Bojanowski, Pascal Vincent,
+  Michael Rabbat, Yann LeCun, and Nicolas Ballas.
+\newblock Self-supervised learning from images with a joint-embedding
+  predictive architecture.
+\newblock {\em arXiv preprint arXiv:2301.08243}, 2023.
+
+\bibitem{bardes2024v}
+Adrien Bardes, Quentin Garrido, Jean Ponce, Xinlei Chen, Michael Rabbat, Yann
+  LeCun, Mahmoud Assran, and Nicolas Ballas.
+\newblock V-jepa: Latent video prediction for visual representation learning.
+\newblock {\em arXiv preprint arXiv:2404.02626}, 2024.
+
+\bibitem{chen2020simple}
+Ting Chen, Simon Kornblith, Mohammad Norouzi, and Geoffrey Hinton.
+\newblock A simple framework for contrastive learning of visual
+  representations.
+\newblock {\em International conference on machine learning}, pages 1597--1607,
+  2020.
+
+\bibitem{he2020momentum}
+Kaiming He, Haoqi Fan, Yuxin Wu, Saining Xie, and Ross Girshick.
+\newblock Momentum contrast for unsupervised visual representation learning.
+\newblock {\em Proceedings of the IEEE/CVF conference on computer vision and
+  pattern recognition}, pages 9729--9738, 2020.
+
+\bibitem{radford2021learning}
+Alec Radford, Jong~Wook Kim, Chris Hallacy, Aditya Ramesh, Gabriel Goh,
+  Sandhini Agarwal, Girish Sastry, Amanda Askell, Pamela Mishkin, Jack Clark,
+  et~al.
+\newblock Learning transferable visual models from natural language
+  supervision.
+\newblock {\em International conference on machine learning}, pages 8748--8763,
+  2021.
+
+\end{thebibliography}

@@ -172,3 +172,5 @@ cython_debug/
 
 # Mac Specific Files
 *.DS_Store
+
+CLAUDE.md

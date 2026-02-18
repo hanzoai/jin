@@ -1,0 +1,25 @@
+\contentsline {section}{\numberline {1}\textcolor {armygreen}{Technical Innovation: Scalable MoE Architecture}}{3}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Mixture of Experts Design}{3}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Mathematical Foundation}{3}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}Platform-Specific Optimization}{4}{subsection.1.3}%
+\contentsline {section}{\numberline {2}\textcolor {armygreen}{V-JEPA Foundation: Learning from Video}}{4}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Hierarchical Feature Extraction}{4}{subsection.2.1}%
+\contentsline {section}{\numberline {3}\textcolor {armygreen}{Military Applications with Adaptive Compute}}{5}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Tiered Deployment Strategy}{5}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Use Case: Counter-UAS at Multiple Echelons}{5}{subsection.3.2}%
+\contentsline {section}{\numberline {4}\textcolor {armygreen}{Performance Benchmarks}}{5}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Computational Efficiency Across Platforms}{5}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Accuracy vs Model Activation}{6}{subsection.4.2}%
+\contentsline {section}{\numberline {5}\textcolor {armygreen}{Implementation Timeline}}{6}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Phase 1: Foundation (Months 1-6)}{6}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Phase 2: Integration (Months 7-12)}{6}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}Phase 3: Validation (Months 13-18)}{6}{subsection.5.3}%
+\contentsline {section}{\numberline {6}\textcolor {armygreen}{Budget Justification}}{7}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Detailed Budget Breakdown}{7}{subsection.6.1}%
+\contentsline {section}{\numberline {7}\textcolor {armygreen}{Risk Management}}{7}{section.7}%
+\contentsline {section}{\numberline {8}\textcolor {armygreen}{Team Qualifications}}{8}{section.8}%
+\contentsline {subsection}{\numberline {8.1}Leadership}{8}{subsection.8.1}%
+\contentsline {subsection}{\numberline {8.2}Institutional Strengths}{8}{subsection.8.2}%
+\contentsline {section}{\numberline {9}\textcolor {armygreen}{Conclusion: One AI, Every Scale}}{8}{section.9}%
+\contentsline {section}{\numberline {A}Technical Details: MoE Implementation}{9}{appendix.A}%
+\contentsline {section}{\numberline {B}V-JEPA Integration}{9}{appendix.B}%
