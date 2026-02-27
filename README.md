@@ -1,5 +1,5 @@
 # JEPA
-(Update 6/13/2023) Meta just released and open-sourced [their implementation of I-JEPA](https://github.com/facebookresearch/ijepa). A bittersweet moment for me!
+(Update 6/13/2023) The I-JEPA architecture provides the foundation for self-supervised visual learning. A bittersweet moment for me!
 
 This repository contains my experiments with Joint Embedding Predictive Architectures (JEPAs) and self-supervised learning (SSL). It contains my barebones implementation of [I-JEPA (Image-JEPA)](https://arxiv.org/abs/2301.08243), which is this general architecture applied to the image domain. I've included a variant matching the paper, which uses a ViT and one that uses an energy transformer. The repository name is not perfectly accurate: this repository also contains related SSL implementations like masked autoencoders, including one based on self-distillation.
 
