@@ -1,4 +1,14 @@
-# JEPA
+# [ARCHIVED] JEPA
+
+> **This repository is archived as of 2026-05-12.** See [ARCHIVED.md](ARCHIVED.md)
+> for the rationale. The Hanzo multimodal framework described in `LLM.md` was
+> never built; what shipped here is a set of self-contained I-JEPA / Saccade-JEPA
+> research experiments. No successor repo covers the same scope — this line of
+> work is simply discontinued. History and tags are preserved; no changes will
+> be accepted.
+
+---
+
 (Update 6/13/2023) The I-JEPA architecture provides the foundation for self-supervised visual learning. A bittersweet moment for me!
 
 This repository contains my experiments with Joint Embedding Predictive Architectures (JEPAs) and self-supervised learning (SSL). It contains my barebones implementation of [I-JEPA (Image-JEPA)](https://arxiv.org/abs/2301.08243), which is this general architecture applied to the image domain. I've included a variant matching the paper, which uses a ViT and one that uses an energy transformer. The repository name is not perfectly accurate: this repository also contains related SSL implementations like masked autoencoders, including one based on self-distillation.
